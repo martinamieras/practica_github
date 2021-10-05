@@ -1,3 +1,6 @@
 # practica_github
 
-miren el txt
+Hernan Rotellini
+
+"Miren el TXT"
+
